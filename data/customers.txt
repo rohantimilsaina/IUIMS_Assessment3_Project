@@ -1,0 +1,12 @@
+1|Rohan|Timilsaina|rohan.timilsaina@student.edu.au|+61-411-001-001|12 Main St Sydney|5000.00|0.00|ACTIVE
+2|Nirmal|Subedi|nirmal.subedi@student.edu.au|+61-411-002-002|34 King St Melbourne|3000.00|2800.00|ACTIVE
+3|Subha|Pokhrel|subha.pokhrel@student.edu.au|+61-411-003-003|56 Queen St Brisbane|8000.00|8500.00|BLOCKED
+4|Pranjal|Lamsal|pranjal.lamsal@student.edu.au|+61-411-004-004|78 Park Rd Perth|2000.00|0.00|ACTIVE
+5|Gaurav|Gurung|gaurav.gurung@student.edu.au|+61-411-005-005|90 Beach Ave Adelaide|6000.00|1200.00|ACTIVE
+6|Frank|Wilson|frank.wilson@student.edu.au|+61-411-006-006|11 River Dr Hobart|1500.00|1500.00|INACTIVE
+7|Grace|Moore|grace.moore@student.edu.au|+61-411-007-007|22 Hill Rd Darwin|4000.00|500.00|ACTIVE
+8|Henry|Taylor|henry.taylor@student.edu.au|+61-411-008-008|33 Lake St Canberra|10000.00|3000.00|ACTIVE
+9|Isabel|Anderson|isabel.anderson@student.edu.au|+61-411-009-009|44 Forest Way Gold Coast|2500.00|0.00|ACTIVE
+10|James|Thomas|james.thomas@student.edu.au|+61-411-010-010|55 Sunset Blvd Newcastle|7000.00|7200.00|BLOCKED
+11|GroupMember|Two|member2@university.edu|+61-422-002-002|University Campus Block B|1000.00|0.00|ACTIVE
+12|GroupMember|Three|member3@university.edu|+61-422-003-003|University Campus Block C|1000.00|0.00|ACTIVE

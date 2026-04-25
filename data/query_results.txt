@@ -1,0 +1,165 @@
+=== Full System Evaluation ===
+Run at: 2026-04-13T01:12:09.499609099
+Results: 13 record(s)
+---
+Product Arabica Coffee Beans 1kg is low on stock: 3 left, reorder level 20
+Product Herbal Shampoo 500ml is low on stock: 8 left, reorder level 25
+Product iPad Air 11 inch is low on stock: 2 left, reorder level 5
+Product Jasmine Rice 5kg is low on stock: 4 left, reorder level 50
+User blocked for exceeding limit. Balance $8500.00 / Limit $8000.00 => Subha Pokhrel
+User blocked for exceeding limit. Balance $7200.00 / Limit $7000.00 => James Thomas
+Reward applied: 10% credit limit increase to $5500.00 => Rohan Timilsaina
+Reward applied: 10% credit limit increase to $2200.00 => Pranjal Lamsal
+Reward applied: 10% credit limit increase to $2750.00 => Isabel Anderson
+Reward applied: 10% credit limit increase to $1100.00 => GroupMember Two
+Reward applied: 10% credit limit increase to $1100.00 => GroupMember Three
+Inactive supplier requires review. => WellnessPlus
+Processed events: 12
+
+=== Category Search: r ===
+Run at: 2026-04-13T11:39:48.255179
+Results: 6 record(s)
+---
+  [  1]  Electronics           Computers, phones, and electronic acc...
+  [  2]  Food & Beverage       Consumable food and drink products
+  [  3]  Clothing              Apparel and fashion items
+  [  4]  Office Supplies       Stationery, paper, and office equipment
+  [  5]  Health & Beauty       Personal care and wellness products
+  [  6]  Retro                 Its a retro Camera.
+
+=== Category Search: Retro ===
+Run at: 2026-04-13T11:39:59.277466
+Results: 1 record(s)
+---
+  [  6]  Retro                 Its a retro Camera.
+
+=== Full System Evaluation ===
+Run at: 2026-04-16T17:15:33.834291
+Results: 13 record(s)
+---
+Product Arabica Coffee Beans 1kg is low on stock: 3 left, reorder level 20
+Product Herbal Shampoo 500ml is low on stock: 8 left, reorder level 25
+Product iPad Air 11 inch is low on stock: 2 left, reorder level 5
+Product Jasmine Rice 5kg is low on stock: 4 left, reorder level 50
+User blocked for exceeding limit. Balance $8500.00 / Limit $8000.00 => Subha Pokhrel
+User blocked for exceeding limit. Balance $7200.00 / Limit $7000.00 => James Thomas
+Reward applied: 10% credit limit increase to $6050.00 => Rohan Timilsaina
+Reward applied: 10% credit limit increase to $2420.00 => Pranjal Lamsal
+Reward applied: 10% credit limit increase to $3025.00 => Isabel Anderson
+Reward applied: 10% credit limit increase to $1210.00 => GroupMember Two
+Reward applied: 10% credit limit increase to $1210.00 => GroupMember Three
+Inactive supplier requires review. => WellnessPlus
+Processed events: 12
+
+=== Category Search: o ===
+Run at: 2026-04-19T12:14:58.927460
+Results: 6 record(s)
+---
+  [  1]  Electronics           Computers, phones, and electronic acc...
+  [  2]  Food & Beverage       Consumable food and drink products
+  [  3]  Clothing              Apparel and fashion items
+  [  4]  Office Supplies       Stationery, paper, and office equipment
+  [  5]  Health & Beauty       Personal care and wellness products
+  [  6]  Microwave             a method that utilizes electromagneti...
+
+=== Category Search: w ===
+Run at: 2026-04-19T12:15:30.019826
+Results: 2 record(s)
+---
+  [  5]  Health & Beauty       Personal care and wellness products
+  [  6]  Microwave             a method that utilizes electromagneti...
+
+=== Supplier Search: i ===
+Run at: 2026-04-19T12:22:27.168928
+Results: 6 record(s)
+---
+  [  1]  TechWorld Distributors  James Nguyen          +61-400-111-222  INACTIVE
+  [  2]  FreshFoods Co           Sarah Miller          +61-400-333-444  ACTIVE
+  [  3]  StyleHub Wholesale      David Kim             +61-400-555-666  ACTIVE
+  [  4]  OfficeMax Supply        Linda Chen            +61-400-777-888  ACTIVE
+  [  5]  WellnessPlus            Omar Hussain          +61-400-999-000  INACTIVE
+  [  6]  iPhone                  Rohan Tim             +61 0478686200   ACTIVE
+
+=== Supplier Search: p ===
+Run at: 2026-04-19T12:22:51.851704
+Results: 3 record(s)
+---
+  [  4]  OfficeMax Supply        Linda Chen            +61-400-777-888  ACTIVE
+  [  5]  WellnessPlus            Omar Hussain          +61-400-999-000  INACTIVE
+  [  6]  iPhone                  Rohan Tim             +61 0478686200   ACTIVE
+
+=== Product Search: 1 ===
+Run at: 2026-04-19T12:32:20.096652
+Results: 7 record(s)
+---
+  [  1]  LAPTOP-001  Dell Laptop 15             Qty:50      $1299.99   ACTIVE
+  [  2]  PHONE-001   Samsung Galaxy S24         Qty:30      $999.00    ACTIVE
+  [  3]  COFFEE-001  Arabica Coffee Beans 1kg   Qty:3       $24.99     ACTIVE ⚠
+  [  4]  TSHIRT-001  Classic Cotton T-Shirt     Qty:120     $19.99     ACTIVE
+  [  5]  PEN-BOX-001  Ballpoint Pen Box (50)     Qty:200     $12.50     ACTIVE
+  [  6]  SHAMPOO-001  Herbal Shampoo 500ml       Qty:8       $14.99     ACTIVE ⚠
+  [  7]  TABLET-001  iPad Air 11 inch           Qty:2       $899.00    ACTIVE ⚠
+
+=== Products in Category: Electronics ===
+Run at: 2026-04-19T12:32:48.349932
+Results: 3 record(s)
+---
+  [  1]  LAPTOP-001  Dell Laptop 15             Qty:50      $1299.99   ACTIVE
+  [  2]  PHONE-001   Samsung Galaxy S24         Qty:30      $999.00    ACTIVE
+  [  7]  TABLET-001  iPad Air 11 inch           Qty:2       $899.00    ACTIVE ⚠
+
+=== Low Stock Report ===
+Run at: 2026-04-19T12:33:00.976383
+Results: 4 record(s)
+---
+  [  3]  COFFEE-001  Arabica Coffee Beans 1kg   Qty:3       $24.99     ACTIVE ⚠
+  [  6]  SHAMPOO-001  Herbal Shampoo 500ml       Qty:8       $14.99     ACTIVE ⚠
+  [  7]  TABLET-001  iPad Air 11 inch           Qty:2       $899.00    ACTIVE ⚠
+  [  8]  RICE-5KG    Jasmine Rice 5kg           Qty:4       $18.00     ACTIVE ⚠
+
+=== Full System Evaluation ===
+Run at: 2026-04-19T12:33:47.240147
+Results: 14 record(s)
+---
+Product Arabica Coffee Beans 1kg is low on stock: 3 left, reorder level 20
+Product Herbal Shampoo 500ml is low on stock: 8 left, reorder level 25
+Product iPad Air 11 inch is low on stock: 2 left, reorder level 5
+Product Jasmine Rice 5kg is low on stock: 4 left, reorder level 50
+User blocked for exceeding limit. Balance $8500.00 / Limit $8000.00 => Subha Pokhrel
+User blocked for exceeding limit. Balance $7200.00 / Limit $7000.00 => James Thomas
+Reward applied: 10% credit limit increase to $6655.00 => Rohan Timilsaina
+Reward applied: 10% credit limit increase to $2662.00 => Pranjal Lamsal
+Reward applied: 10% credit limit increase to $3327.50 => Isabel Anderson
+Reward applied: 10% credit limit increase to $1331.00 => GroupMember Two
+Reward applied: 10% credit limit increase to $1331.00 => GroupMember Three
+Inactive supplier requires review. => TechWorld Distributors
+Inactive supplier requires review. => WellnessPlus
+Processed events: 13
+
+=== Batches for product: Dell Laptop 15 ===
+Run at: 2026-04-19T15:22:06.463596
+Results: 2 record(s)
+---
+  [  1]  Dell Laptop 15          Rcvd:50     Rem:50     $850.00   AVAILABLE
+  [  9]  Dell Laptop 15          Rcvd:2      Rem:2      $650.00   AVAILABLE
+
+=== Batches from supplier: FreshFoods Co ===
+Run at: 2026-04-19T15:26:51.059141
+Results: 2 record(s)
+---
+  [  3]  Arabica Coffee Bean...  Rcvd:100    Rem:3      $12.00    AVAILABLE
+  [  8]  Jasmine Rice 5kg        Rcvd:200    Rem:4      $9.00     AVAILABLE
+
+=== User Search: ron ===
+Run at: 2026-04-19T15:40:42.246740
+Results: 1 record(s)
+---
+  [  6]  Ron William               ronwilliam@gmail.com       Bal:$1500.00   INACTIVE
+
+=== Users Over Credit Limit ===
+Run at: 2026-04-19T16:04:26.060058
+Results: 2 record(s)
+---
+  [  3]  Subha Pokhrel             subha.pokhrel@student.edu.au  Bal:$8500.00   BLOCKED
+  [ 10]  James Thomas              james.thomas@student.edu.au  Bal:$7200.00   BLOCKED
+

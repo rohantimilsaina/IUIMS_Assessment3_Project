@@ -1,0 +1,6 @@
+1|TechWorld Distributors|James Nguyen|james@techworld.com|+61-400-111-222|false
+2|FreshFoods Co|Sarah Miller|sarah@freshfoods.com|+61-400-333-444|true
+3|StyleHub Wholesale|David Kim|david@stylehub.com|+61-400-555-666|true
+4|OfficeMax Supply|Linda Chen|linda@officemax.com|+61-400-777-888|true
+5|WellnessPlus|Omar Hussain|omar@wellnessplus.com|+61-400-999-000|false
+6|iPhone|Rohan Tim|rohan@gmail.com|+61 0478686200|true

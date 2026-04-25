@@ -1,0 +1,50 @@
+digraph IUIMS {
+  graph [rankdir=LR, fontsize=10];
+  node [shape=record, fontsize=10];
+
+  BaseModel [label="{BaseModel|id:int|+toFileLine()\l+printDetails()\l+getSummary()\l}"];
+  Category [label="{Category|name\ldescription\l}"];
+  Supplier [label="{Supplier|name\lcontactPerson\lemail\lphone\lactive\l}"];
+  Product [label="{Product|sku\lname\ldescription\lcategoryId\lcategoryName\lsellingPrice\lreorderLevel\ltotalStock\lactive\l}"];
+  ProductBatch [label="{ProductBatch|productId\lsupplierId\lpoNumber\lquantity\lremainingQty\lcostPrice\lexpiryDate\lreceivedDate\l}"];
+  Customer [label="{Customer (User Account)|firstName\llastName\lemail\lphone\laddress\lcreditLimit\lcurrentBalance\lstatus\l}"];
+  EvaluationEvent [label="{EvaluationEvent|entityType\lentityRefId\lentityName\leventType\lactionType\lmessage\leventDate\l}"];
+
+  CategoryService [label="{CategoryService|ArrayList<Category>\l}"];
+  SupplierService [label="{SupplierService|ArrayList<Supplier>\l}"];
+  ProductService [label="{ProductService|ArrayList<Product>\l}"];
+  BatchService [label="{BatchService|LinkedList<ProductBatch>\l}"];
+  CustomerService [label="{CustomerService|ArrayList<Customer>\l}"];
+  EvaluationService [label="{EvaluationService|ArrayList history\lQueue pendingQueue\l}"];
+  FileStorage [label="{FileStorage|+readFile()\l+writeFile()\l+saveQueryResult()\l}"];
+
+  MainMenu [label="{MainMenu|launches submenus\l}"];
+  ReportsMenu [label="{ReportsMenu|runFullEvaluation()\levaluationHistory()\l}"];
+
+  BaseModel -> Category;
+  BaseModel -> Supplier;
+  BaseModel -> Product;
+  BaseModel -> ProductBatch;
+  BaseModel -> Customer;
+  BaseModel -> EvaluationEvent;
+
+  CategoryService -> Category;
+  SupplierService -> Supplier;
+  ProductService -> Product;
+  BatchService -> ProductBatch;
+  BatchService -> ProductService;
+  CustomerService -> Customer;
+  EvaluationService -> EvaluationEvent;
+  ReportsMenu -> ProductService;
+  ReportsMenu -> CustomerService;
+  ReportsMenu -> SupplierService;
+  ReportsMenu -> BatchService;
+  ReportsMenu -> EvaluationService;
+  CategoryService -> FileStorage;
+  SupplierService -> FileStorage;
+  ProductService -> FileStorage;
+  BatchService -> FileStorage;
+  CustomerService -> FileStorage;
+  EvaluationService -> FileStorage;
+  MainMenu -> ReportsMenu;
+}

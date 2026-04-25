@@ -1,0 +1,8 @@
+1|LAPTOP-001|Dell Laptop 15|High-performance laptop 16GB RAM|1|Electronics|1299.99|5|47|true
+2|PHONE-001|Samsung Galaxy S24|Android smartphone 256GB|1|Electronics|999.00|10|30|true
+3|COFFEE-001|Arabica Coffee Beans 1kg|Premium roasted coffee beans|2|Food & Beverage|24.99|20|3|true
+4|TSHIRT-001|Classic Cotton T-Shirt|Unisex cotton tee available in all sizes|3|Clothing|19.99|15|120|true
+5|PEN-BOX-001|Ballpoint Pen Box (50)|Box of 50 blue ballpoint pens|4|Office Supplies|12.50|30|200|true
+6|SHAMPOO-001|Herbal Shampoo 500ml|Natural herbal shampoo sulfate-free|5|Health & Beauty|14.99|25|8|true
+7|TABLET-001|iPad Air 11 inch|Apple tablet 256GB Wi-Fi|1|Electronics|899.00|5|2|true
+8|RICE-5KG|Jasmine Rice 5kg|Premium Thai jasmine rice|2|Food & Beverage|18.00|50|4|true

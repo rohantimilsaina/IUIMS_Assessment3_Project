@@ -1,0 +1,8 @@
+1|1|Dell Laptop 15|1|TechWorld Distributors|2|50|47|3450.00|2030-09-08|2025-01-10
+2|2|Samsung Galaxy S24|1|TechWorld Distributors|PO-2025-001|30|30|620.00||2025-01-10
+3|3|Arabica Coffee Beans 1kg|2|FreshFoods Co|PO-2025-002|100|3|12.00|2026-06-30|2025-02-01
+4|4|Classic Cotton T-Shirt|3|StyleHub Wholesale|PO-2025-003|200|120|8.00||2025-02-15
+5|5|Ballpoint Pen Box (50)|4|OfficeMax Supply|PO-2025-004|500|200|5.00||2025-03-01
+6|6|Herbal Shampoo 500ml|5|WellnessPlus|PO-2025-005|100|8|7.50|2027-01-01|2025-03-10
+7|7|iPad Air 11 inch|1|TechWorld Distributors|PO-2025-006|10|2|580.00||2025-04-01
+8|8|Jasmine Rice 5kg|2|FreshFoods Co|PO-2025-007|200|4|9.00|2026-12-31|2025-04-05

@@ -1,0 +1,6 @@
+1|Electronics|Computers, phones, and electronic accessories
+2|Food & Beverage|Consumable food and drink products
+3|Clothing|Apparel and fashion items
+4|Office Supplies|Stationery, paper, and office equipment
+5|Health & Beauty|Personal care and wellness products
+6|Microwave|a method that utilizes electromagnetic radiation.

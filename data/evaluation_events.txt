@@ -1,0 +1,37 @@
+1|Product|3|Arabica Coffee Beans 1kg|NEGATIVE_FEEDBACK|PENALTY|Product Arabica Coffee Beans 1kg is low on stock: 3 left, reorder level 20|2026-04-13T01:12:09.390827596
+2|Product|6|Herbal Shampoo 500ml|NEGATIVE_FEEDBACK|PENALTY|Product Herbal Shampoo 500ml is low on stock: 8 left, reorder level 25|2026-04-13T01:12:09.391808145
+3|Product|7|iPad Air 11 inch|NEGATIVE_FEEDBACK|PENALTY|Product iPad Air 11 inch is low on stock: 2 left, reorder level 5|2026-04-13T01:12:09.392028675
+4|Product|8|Jasmine Rice 5kg|NEGATIVE_FEEDBACK|PENALTY|Product Jasmine Rice 5kg is low on stock: 4 left, reorder level 50|2026-04-13T01:12:09.392179951
+5|User|3|Subha Pokhrel|NEGATIVE_FEEDBACK|PENALTY|User blocked for exceeding limit. Balance $8500.00 / Limit $8000.00|2026-04-13T01:12:09.393285979
+6|User|10|James Thomas|NEGATIVE_FEEDBACK|PENALTY|User blocked for exceeding limit. Balance $7200.00 / Limit $7000.00|2026-04-13T01:12:09.399854426
+7|User|1|Rohan Timilsaina|POSITIVE_FEEDBACK|REWARD|Reward applied: 10% credit limit increase to $5500.00|2026-04-13T01:12:09.405318541
+8|User|4|Pranjal Lamsal|POSITIVE_FEEDBACK|REWARD|Reward applied: 10% credit limit increase to $2200.00|2026-04-13T01:12:09.406354731
+9|User|9|Isabel Anderson|POSITIVE_FEEDBACK|REWARD|Reward applied: 10% credit limit increase to $2750.00|2026-04-13T01:12:09.406690719
+10|User|11|GroupMember Two|POSITIVE_FEEDBACK|REWARD|Reward applied: 10% credit limit increase to $1100.00|2026-04-13T01:12:09.406904538
+11|User|12|GroupMember Three|POSITIVE_FEEDBACK|REWARD|Reward applied: 10% credit limit increase to $1100.00|2026-04-13T01:12:09.407203507
+12|Supplier|5|WellnessPlus|STATUS|NONE|Inactive supplier requires review.|2026-04-13T01:12:09.412412398
+13|Product|3|Arabica Coffee Beans 1kg|NEGATIVE_FEEDBACK|PENALTY|Product Arabica Coffee Beans 1kg is low on stock: 3 left, reorder level 20|2026-04-16T17:15:33.825135
+14|Product|6|Herbal Shampoo 500ml|NEGATIVE_FEEDBACK|PENALTY|Product Herbal Shampoo 500ml is low on stock: 8 left, reorder level 25|2026-04-16T17:15:33.828215
+15|Product|7|iPad Air 11 inch|NEGATIVE_FEEDBACK|PENALTY|Product iPad Air 11 inch is low on stock: 2 left, reorder level 5|2026-04-16T17:15:33.828256
+16|Product|8|Jasmine Rice 5kg|NEGATIVE_FEEDBACK|PENALTY|Product Jasmine Rice 5kg is low on stock: 4 left, reorder level 50|2026-04-16T17:15:33.828287
+17|User|3|Subha Pokhrel|NEGATIVE_FEEDBACK|PENALTY|User blocked for exceeding limit. Balance $8500.00 / Limit $8000.00|2026-04-16T17:15:33.828566
+18|User|10|James Thomas|NEGATIVE_FEEDBACK|PENALTY|User blocked for exceeding limit. Balance $7200.00 / Limit $7000.00|2026-04-16T17:15:33.828771
+19|User|1|Rohan Timilsaina|POSITIVE_FEEDBACK|REWARD|Reward applied: 10% credit limit increase to $6050.00|2026-04-16T17:15:33.829764
+20|User|4|Pranjal Lamsal|POSITIVE_FEEDBACK|REWARD|Reward applied: 10% credit limit increase to $2420.00|2026-04-16T17:15:33.829919
+21|User|9|Isabel Anderson|POSITIVE_FEEDBACK|REWARD|Reward applied: 10% credit limit increase to $3025.00|2026-04-16T17:15:33.829992
+22|User|11|GroupMember Two|POSITIVE_FEEDBACK|REWARD|Reward applied: 10% credit limit increase to $1210.00|2026-04-16T17:15:33.830074
+23|User|12|GroupMember Three|POSITIVE_FEEDBACK|REWARD|Reward applied: 10% credit limit increase to $1210.00|2026-04-16T17:15:33.830138
+24|Supplier|5|WellnessPlus|STATUS|NONE|Inactive supplier requires review.|2026-04-16T17:15:33.831188
+25|Product|3|Arabica Coffee Beans 1kg|NEGATIVE_FEEDBACK|PENALTY|Product Arabica Coffee Beans 1kg is low on stock: 3 left, reorder level 20|2026-04-19T12:33:47.230729
+26|Product|6|Herbal Shampoo 500ml|NEGATIVE_FEEDBACK|PENALTY|Product Herbal Shampoo 500ml is low on stock: 8 left, reorder level 25|2026-04-19T12:33:47.230902
+27|Product|7|iPad Air 11 inch|NEGATIVE_FEEDBACK|PENALTY|Product iPad Air 11 inch is low on stock: 2 left, reorder level 5|2026-04-19T12:33:47.230930
+28|Product|8|Jasmine Rice 5kg|NEGATIVE_FEEDBACK|PENALTY|Product Jasmine Rice 5kg is low on stock: 4 left, reorder level 50|2026-04-19T12:33:47.230948
+29|User|3|Subha Pokhrel|NEGATIVE_FEEDBACK|PENALTY|User blocked for exceeding limit. Balance $8500.00 / Limit $8000.00|2026-04-19T12:33:47.231377
+30|User|10|James Thomas|NEGATIVE_FEEDBACK|PENALTY|User blocked for exceeding limit. Balance $7200.00 / Limit $7000.00|2026-04-19T12:33:47.231544
+31|User|1|Rohan Timilsaina|POSITIVE_FEEDBACK|REWARD|Reward applied: 10% credit limit increase to $6655.00|2026-04-19T12:33:47.232361
+32|User|4|Pranjal Lamsal|POSITIVE_FEEDBACK|REWARD|Reward applied: 10% credit limit increase to $2662.00|2026-04-19T12:33:47.232479
+33|User|9|Isabel Anderson|POSITIVE_FEEDBACK|REWARD|Reward applied: 10% credit limit increase to $3327.50|2026-04-19T12:33:47.232526
+34|User|11|GroupMember Two|POSITIVE_FEEDBACK|REWARD|Reward applied: 10% credit limit increase to $1331.00|2026-04-19T12:33:47.232565
+35|User|12|GroupMember Three|POSITIVE_FEEDBACK|REWARD|Reward applied: 10% credit limit increase to $1331.00|2026-04-19T12:33:47.232599
+36|Supplier|1|TechWorld Distributors|STATUS|NONE|Inactive supplier requires review.|2026-04-19T12:33:47.234173
+37|Supplier|5|WellnessPlus|STATUS|NONE|Inactive supplier requires review.|2026-04-19T12:33:47.234239
