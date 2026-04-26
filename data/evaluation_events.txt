@@ -35,3 +35,16 @@
 35|User|12|GroupMember Three|POSITIVE_FEEDBACK|REWARD|Reward applied: 10% credit limit increase to $1331.00|2026-04-19T12:33:47.232599
 36|Supplier|1|TechWorld Distributors|STATUS|NONE|Inactive supplier requires review.|2026-04-19T12:33:47.234173
 37|Supplier|5|WellnessPlus|STATUS|NONE|Inactive supplier requires review.|2026-04-19T12:33:47.234239
+38|Product|3|Arabica Coffee Beans 1kg|NEGATIVE_FEEDBACK|PENALTY|Product Arabica Coffee Beans 1kg is low on stock: 3 left, reorder level 20|2026-04-25T15:04:28.832714
+39|Product|6|Herbal Shampoo 500ml|NEGATIVE_FEEDBACK|PENALTY|Product Herbal Shampoo 500ml is low on stock: 8 left, reorder level 25|2026-04-25T15:04:28.833218
+40|Product|7|iPad Air 11 inch|NEGATIVE_FEEDBACK|PENALTY|Product iPad Air 11 inch is low on stock: 2 left, reorder level 5|2026-04-25T15:04:28.833311
+41|Product|8|Jasmine Rice 5kg|NEGATIVE_FEEDBACK|PENALTY|Product Jasmine Rice 5kg is low on stock: 4 left, reorder level 50|2026-04-25T15:04:28.833341
+42|User|3|Subha Pokhrel|NEGATIVE_FEEDBACK|PENALTY|User blocked for exceeding limit. Balance $8500.00 / Limit $8000.00|2026-04-25T15:04:28.833981
+43|User|10|James Thomas|NEGATIVE_FEEDBACK|PENALTY|User blocked for exceeding limit. Balance $7200.00 / Limit $7000.00|2026-04-25T15:04:28.834246
+44|User|1|Rohan Timilsaina|POSITIVE_FEEDBACK|REWARD|Reward applied: 10% credit limit increase to $7320.50|2026-04-25T15:04:28.836582
+45|User|4|Pranjal Lamsal|POSITIVE_FEEDBACK|REWARD|Reward applied: 10% credit limit increase to $2928.20|2026-04-25T15:04:28.836863
+46|User|9|Isabel Anderson|POSITIVE_FEEDBACK|REWARD|Reward applied: 10% credit limit increase to $3660.25|2026-04-25T15:04:28.836965
+47|User|11|GroupMember Two|POSITIVE_FEEDBACK|REWARD|Reward applied: 10% credit limit increase to $1464.10|2026-04-25T15:04:28.837097
+48|User|13|Ayush Timilsaina|POSITIVE_FEEDBACK|REWARD|Reward applied: 10% credit limit increase to $5500.00|2026-04-25T15:04:28.837198
+49|Supplier|1|TechWorld Distributors|STATUS|NONE|Inactive supplier requires review.|2026-04-25T15:04:28.839585
+50|Supplier|5|WellnessPlus|STATUS|NONE|Inactive supplier requires review.|2026-04-25T15:04:28.839669

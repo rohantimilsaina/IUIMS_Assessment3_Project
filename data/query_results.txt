@@ -163,3 +163,99 @@ Results: 2 record(s)
   [  3]  Subha Pokhrel             subha.pokhrel@student.edu.au  Bal:$8500.00   BLOCKED
   [ 10]  James Thomas              james.thomas@student.edu.au  Bal:$7200.00   BLOCKED
 
+=== Full System Evaluation ===
+Run at: 2026-04-25T15:04:28.844185
+Results: 14 record(s)
+---
+Product Arabica Coffee Beans 1kg is low on stock: 3 left, reorder level 20
+Product Herbal Shampoo 500ml is low on stock: 8 left, reorder level 25
+Product iPad Air 11 inch is low on stock: 2 left, reorder level 5
+Product Jasmine Rice 5kg is low on stock: 4 left, reorder level 50
+User blocked for exceeding limit. Balance $8500.00 / Limit $8000.00 => Subha Pokhrel
+User blocked for exceeding limit. Balance $7200.00 / Limit $7000.00 => James Thomas
+Reward applied: 10% credit limit increase to $7320.50 => Rohan Timilsaina
+Reward applied: 10% credit limit increase to $2928.20 => Pranjal Lamsal
+Reward applied: 10% credit limit increase to $3660.25 => Isabel Anderson
+Reward applied: 10% credit limit increase to $1464.10 => GroupMember Two
+Reward applied: 10% credit limit increase to $5500.00 => Ayush Timilsaina
+Inactive supplier requires review. => TechWorld Distributors
+Inactive supplier requires review. => WellnessPlus
+Processed events: 13
+
+=== Low Stock Report ===
+Run at: 2026-04-25T15:04:36.727503
+Results: 4 record(s)
+---
+  [  3]  COFFEE-001  Arabica Coffee Beans 1kg   Qty:3       $24.99     ACTIVE ⚠
+  [  6]  SHAMPOO-001  Herbal Shampoo 500ml       Qty:8       $14.99     ACTIVE ⚠
+  [  7]  TABLET-001  iPad Air 11 inch           Qty:2       $899.00    ACTIVE ⚠
+  [  8]  RICE-5KG    Jasmine Rice 5kg           Qty:4       $18.00     ACTIVE ⚠
+
+=== Credit Violations Report ===
+Run at: 2026-04-25T15:04:41.145693
+Results: 2 record(s)
+---
+  [  3]  Subha Pokhrel             subha.pokhrel@student.edu.au  Bal:$8500.00   BLOCKED
+  [ 10]  James Thomas              james.thomas@student.edu.au  Bal:$7200.00   BLOCKED
+
+=== Good Standing Users ===
+Run at: 2026-04-25T15:04:44.543918
+Results: 5 record(s)
+---
+  [  1]  Rohan Timilsaina          rohan.timilsaina@student.edu.au  Bal:$0.00      ACTIVE
+  [  4]  Pranjal Lamsal            pranjal.lamsal@student.edu.au  Bal:$0.00      ACTIVE
+  [  9]  Isabel Anderson           isabel.anderson@student.edu.au  Bal:$0.00      ACTIVE
+  [ 11]  GroupMember Two           member2@university.edu     Bal:$0.00      ACTIVE
+  [ 13]  Ayush Timilsaina          ayushtimilsaina@gmail.com  Bal:$0.00      ACTIVE
+
+=== Inactive Suppliers Report ===
+Run at: 2026-04-25T15:04:48.682759
+Results: 2 record(s)
+---
+  [  1]  TechWorld Distributors  James Nguyen          +61-400-111-222  INACTIVE
+  [  5]  WellnessPlus            Omar Hussain          +61-400-999-000  INACTIVE
+
+=== Full Inventory Report ===
+Run at: 2026-04-25T15:04:51.263769
+Results: 9 record(s)
+---
+  LAPTOP-001  Dell Laptop 15                 47  $1299.99  $ 61099.53
+  PHONE-001   Samsung Galaxy S24             30  $ 999.00  $ 29970.00
+  COFFEE-001  Arabica Coffee Beans 1kg        3  $  24.99  $    74.97 ⚠
+  TSHIRT-001  Classic Cotton T-Shirt        120  $  19.99  $  2398.80
+  PEN-BOX-001  Ballpoint Pen Box (50)        200  $  12.50  $  2500.00
+  SHAMPOO-001  Herbal Shampoo 500ml            8  $  14.99  $   119.92 ⚠
+  TABLET-001  iPad Air 11 inch                2  $ 899.00  $  1798.00 ⚠
+  RICE-5KG    Jasmine Rice 5kg                4  $  18.00  $    72.00 ⚠
+  Total inventory value: $98033.22
+
+=== Evaluation Event History ===
+Run at: 2026-04-25T15:04:52.982027
+Results: 25 record(s)
+---
+  [ 26] PENALTY    Product#6          Herbal Shampoo 500ml Product Herbal Shampoo 500ml is low on stock: 8 left, reorder level 25
+  [ 27] PENALTY    Product#7          iPad Air 11 inch   Product iPad Air 11 inch is low on stock: 2 left, reorder level 5
+  [ 28] PENALTY    Product#8          Jasmine Rice 5kg   Product Jasmine Rice 5kg is low on stock: 4 left, reorder level 50
+  [ 29] PENALTY    User#3             Subha Pokhrel      User blocked for exceeding limit. Balance $8500.00 / Limit $8000.00
+  [ 30] PENALTY    User#10            James Thomas       User blocked for exceeding limit. Balance $7200.00 / Limit $7000.00
+  [ 31] REWARD     User#1             Rohan Timilsaina   Reward applied: 10% credit limit increase to $6655.00
+  [ 32] REWARD     User#4             Pranjal Lamsal     Reward applied: 10% credit limit increase to $2662.00
+  [ 33] REWARD     User#9             Isabel Anderson    Reward applied: 10% credit limit increase to $3327.50
+  [ 34] REWARD     User#11            GroupMember Two    Reward applied: 10% credit limit increase to $1331.00
+  [ 35] REWARD     User#12            GroupMember Three  Reward applied: 10% credit limit increase to $1331.00
+  [ 36] NONE       Supplier#1         TechWorld Distributors Inactive supplier requires review.
+  [ 37] NONE       Supplier#5         WellnessPlus       Inactive supplier requires review.
+  [ 38] PENALTY    Product#3          Arabica Coffee Beans 1kg Product Arabica Coffee Beans 1kg is low on stock: 3 left, reorder level 20
+  [ 39] PENALTY    Product#6          Herbal Shampoo 500ml Product Herbal Shampoo 500ml is low on stock: 8 left, reorder level 25
+  [ 40] PENALTY    Product#7          iPad Air 11 inch   Product iPad Air 11 inch is low on stock: 2 left, reorder level 5
+  [ 41] PENALTY    Product#8          Jasmine Rice 5kg   Product Jasmine Rice 5kg is low on stock: 4 left, reorder level 50
+  [ 42] PENALTY    User#3             Subha Pokhrel      User blocked for exceeding limit. Balance $8500.00 / Limit $8000.00
+  [ 43] PENALTY    User#10            James Thomas       User blocked for exceeding limit. Balance $7200.00 / Limit $7000.00
+  [ 44] REWARD     User#1             Rohan Timilsaina   Reward applied: 10% credit limit increase to $7320.50
+  [ 45] REWARD     User#4             Pranjal Lamsal     Reward applied: 10% credit limit increase to $2928.20
+  [ 46] REWARD     User#9             Isabel Anderson    Reward applied: 10% credit limit increase to $3660.25
+  [ 47] REWARD     User#11            GroupMember Two    Reward applied: 10% credit limit increase to $1464.10
+  [ 48] REWARD     User#13            Ayush Timilsaina   Reward applied: 10% credit limit increase to $5500.00
+  [ 49] NONE       Supplier#1         TechWorld Distributors Inactive supplier requires review.
+  [ 50] NONE       Supplier#5         WellnessPlus       Inactive supplier requires review.
+
