@@ -5,7 +5,7 @@ Overview
 --------
 This is a text-based Java application designed to satisfy the requirements of
 ICT711 Assessment 3. It demonstrates:
-- inheritance, polymorphism, abstraction, and encapsulation
+- inheritance, polymorphism and abstraction
 - multiple interacting objects
 - CRUD and query operations for users and inventory entities
 - Java Collections API (ArrayList, LinkedList, Queue)
