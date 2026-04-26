@@ -52,12 +52,6 @@ data/
   evaluation_events.txt
   query_results.txt
 
-docs/
-  Project_Report.md
-  Requirement_Checklist.md
-  Weekly_Activity_Log_Template.md
-  UML_Class_Diagram.dot
-  UML_Class_Diagram.png
 
 Compile and run
 ---------------
